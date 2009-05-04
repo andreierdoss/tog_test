@@ -1,0 +1,80 @@
+en:
+  will_paginate:
+    previous: "« Previous"
+    next: "Next »"
+  interface:
+    admin:
+      home: Home
+      manage: "Manage"
+      manage_items:
+        configuration: "Configuration"
+        abuses: "Abuse"
+    member:
+      home: Home
+    site:
+      home: Home
+  tog_core:
+    plugin_name: Core
+    plugin_description: tog's core plugin
+    site:
+      comment:
+        added: Comment added
+        left_pending: Comments for this entry are moderated, so your comment won't be shown until a moderator approves it
+        removed: Comment removed
+        approved: Comment approved
+        error_commenting: Error while saving your comment
+        error_removing: Error removing comment
+        error_approving: Error approving comment
+        comments: Comments
+        says: says
+        permalink: permalink
+        no_comments: No comments
+        add_comment: Add your comment
+        name: Name
+        email: Email
+        website: Website
+        post_comment: Post comment
+        comment: Comment        
+      rating:
+        rating: Rating        
+        added: Rate added
+        already_rated: You've already rated this item
+        error: Error while saving your rate
+      abuses:
+        report_abuse: Report abuse
+    admin:
+      dashboard:
+          title: Administration 
+      configuration:
+        title: Site configuration
+        update: Update configuration
+      abuses:
+        title: Reported abuses
+        confirm: Confirm
+        confirmed: Abuse confirmed. Contact user and request him to remove that content
+        model:
+          abuse: Abuse
+          subject: Subject
+          description: Description
+          email: Email
+          created_at: Created at
+          url: URL
+          resource: Resource
+    views:
+      home:
+        index:
+          welcome_to: Welcome to {{site_name}}, a tog powered social network.
+          you_would_be_able_to: In this site you would be able to
+          create_your_own_profile: Create your own profile.
+          find_your_friends_and_colleagues: Find your friends and colleagues.
+          create_and_join_groups_of_interest: Create and join groups of interest.
+          and_enjoy_more: "And enjoy: photo &amp; video sharing, blogs system, forums, and many others extensions."
+          sign_up_now: Sign up now!
+          featured_users: Featured Users
+          groups: Groups
+          the_public_continuum: The public continuum...
+          discover_more_plugins_for_tog: Discover more plugins for tog 
+          picto_explanation: Picto is a plugin for photo management and sharing between users of your social network.
+          vault_explanation: A small CMS for your website static pages!
+          conversatio_explanation: A simple blog system.
+          see_more: See more
